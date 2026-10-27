@@ -36,7 +36,9 @@ And if you want to compare it with the real video in real time:
 $ mpv --script=script.lua bad_apple.mp4 
 ````
 
-Enjoy.
+Enjoy this little demo video:
+![Demo Video](https://imgur.com)
+
 
 ---
 
