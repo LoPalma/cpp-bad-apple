@@ -37,7 +37,7 @@ $ mpv --script=script.lua bad_apple.mp4
 ````
 
 Enjoy this little demo video:
-![Demo Video](https://imgur.com)
+![Demo Video](https://imgur.com/a/uCOGgVd)
 
 
 ---
