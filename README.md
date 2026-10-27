@@ -38,8 +38,8 @@ $ mpv --script=script.lua bad_apple.mp4
 
 Enjoy this little demo video:
 
+https://imgur.com/a/uCOGgVd
 
-https://github.com/user-attachments/assets/9bc12af8-2f9d-4097-a3b1-baf38da12e0e
 
 
 
